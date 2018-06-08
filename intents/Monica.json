@@ -1,0 +1,49 @@
+{
+  "id": "59b2df7c-453d-40d0-bd3e-73ad55fd38c3",
+  "name": "Monica",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Monica-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c87c2f30-b9ef-4274-b402-ceaf5c4b797c",
+          "required": true,
+          "dataType": "@Monica",
+          "name": "Monica",
+          "value": "$Monica",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "there is monica"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427013,
+  "fallbackIntent": false,
+  "events": []
+}

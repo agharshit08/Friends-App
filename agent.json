@@ -1,0 +1,64 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "friends-ab0a7",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "389784f8-4193-4bbf-b00a-7952ec656faa",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4ee25e3d-22a2-44d4-9044-cc659602363a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "59b2df7c-453d-40d0-bd3e-73ad55fd38c3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "878c66cc-1139-4d44-a1e6-1d4c4859c9ef",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b18e4eda-19f0-4596-adbb-a0ac31924ff7",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b20d6ecc-088f-4e7c-bacc-b44637c42391",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "https://us-central1-friends-ab0a7.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2"
+}

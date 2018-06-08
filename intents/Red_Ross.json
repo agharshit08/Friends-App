@@ -1,0 +1,30 @@
+{
+  "id": "7447db23-7ff2-4412-9e25-e393e2cbd015",
+  "name": "Red_Ross",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527588474,
+  "fallbackIntent": false,
+  "events": []
+}

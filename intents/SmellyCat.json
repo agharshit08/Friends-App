@@ -1,0 +1,61 @@
+{
+  "id": "05d417f1-bdfa-4d12-b067-759d3524cfbf",
+  "name": "SmellyCat",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "actions_intent_OPTION",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "actions_capability_screen_output",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "actions_capability_media_response_audio",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e135c8a0-9a1d-4243-9cc3-0949727b50fc",
+          "required": true,
+          "dataType": "@SmellyCat",
+          "name": "SmellyCat",
+          "value": "$SmellyCat",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Play smelly cat song."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527483125,
+  "fallbackIntent": false,
+  "events": []
+}

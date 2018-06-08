@@ -1,0 +1,37 @@
+{
+  "id": "b20d6ecc-088f-4e7c-bacc-b44637c42391",
+  "name": "Ross",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "79359673-4f48-497d-bd96-99b0e3488ba5",
+          "required": false,
+          "dataType": "@Ross",
+          "name": "Ross",
+          "value": "$Ross",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526811940,
+  "fallbackIntent": false,
+  "events": []
+}

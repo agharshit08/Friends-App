@@ -1,0 +1,28 @@
+{
+  "id": "779740ad-ed68-433a-acab-416fa8965a6e",
+  "name": "Foosballs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527691065,
+  "fallbackIntent": false,
+  "events": []
+}

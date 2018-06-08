@@ -1,0 +1,30 @@
+{
+  "id": "29447508-1db5-49db-8b1b-d647e1a262e4",
+  "name": "Tips",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527746003,
+  "fallbackIntent": false,
+  "events": []
+}

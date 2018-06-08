@@ -1,0 +1,37 @@
+{
+  "id": "878c66cc-1139-4d44-a1e6-1d4c4859c9ef",
+  "name": "Phoebe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f81244ab-7018-49ed-874d-7ee95225116c",
+          "required": true,
+          "dataType": "@Phoebe",
+          "name": "Phoebe",
+          "value": "$Phoebe",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427004,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "db7e25b9-3240-4387-ba6b-5e6e65faac19",
+  "name": "Humble",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527747833,
+  "fallbackIntent": false,
+  "events": []
+}

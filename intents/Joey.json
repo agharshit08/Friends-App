@@ -1,0 +1,43 @@
+{
+  "id": "389784f8-4193-4bbf-b00a-7952ec656faa",
+  "name": "Joey",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d6f5a3d-bce7-4a04-bab8-3cdbeff91b74",
+          "required": true,
+          "dataType": "@Joey",
+          "name": "Joey",
+          "value": "$Joey",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here is Joey Tribbiani"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526811251,
+  "fallbackIntent": false,
+  "events": []
+}

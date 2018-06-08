@@ -1,0 +1,28 @@
+{
+  "id": "49dd25c9-764d-4e18-9cd7-5012e7960faa",
+  "name": "Ad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527693879,
+  "fallbackIntent": false,
+  "events": []
+}

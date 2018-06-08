@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4827f878-8132-4e4b-a19d-8483b4aeff94",
+    "data": [
+      {
+        "text": "Freak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690860
+  },
+  {
+    "id": "dc35445f-4473-4f64-b4d3-c7ea3375582f",
+    "data": [
+      {
+        "text": "Freaked out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690860
+  },
+  {
+    "id": "6feabe24-06c7-418b-a183-f3c7f90bd6c8",
+    "data": [
+      {
+        "text": "Freaking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690860
+  }
+]

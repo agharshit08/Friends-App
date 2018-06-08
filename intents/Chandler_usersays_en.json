@@ -1,0 +1,88 @@
+[
+  {
+    "id": "98f523fb-cd19-4517-925e-2ef1883ccb46",
+    "data": [
+      {
+        "text": "Chandler Bing",
+        "alias": "Chandler",
+        "meta": "@Chandler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811401
+  },
+  {
+    "id": "1ee45ca1-a65d-4a46-86b3-aa2de9b9b8b8",
+    "data": [
+      {
+        "text": "Chandler",
+        "alias": "Chandler",
+        "meta": "@Chandler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811401
+  },
+  {
+    "id": "80b85b39-14e1-4b68-9194-b124ab788f86",
+    "data": [
+      {
+        "text": "Talk to Mr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Bing",
+        "alias": "Chandler",
+        "meta": "@Chandler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811401
+  },
+  {
+    "id": "86f1aed8-48e6-4271-bc0f-4c6f24e0f99a",
+    "data": [
+      {
+        "text": "Put ",
+        "userDefined": false
+      },
+      {
+        "text": "Chandler",
+        "alias": "Chandler",
+        "meta": "@Chandler",
+        "userDefined": false
+      },
+      {
+        "text": " on line",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811401
+  },
+  {
+    "id": "001053f0-5b14-490f-83a4-d138c5bf9fd1",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Chandler",
+        "alias": "Chandler",
+        "meta": "@Chandler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811401
+  }
+]

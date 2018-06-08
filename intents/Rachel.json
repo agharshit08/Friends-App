@@ -1,0 +1,36 @@
+{
+  "id": "b18e4eda-19f0-4596-adbb-a0ac31924ff7",
+  "name": "Rachel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91c1e9f6-81c0-4dd3-bfb8-d6cf60a93d6b",
+          "dataType": "@Rachel",
+          "name": "Rachel",
+          "value": "$Rachel",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526812097,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "a73142fb-48b4-4893-a90a-3a8c3fc04107",
+    "data": [
+      {
+        "text": "Shoe",
+        "alias": "StickyShoes",
+        "meta": "@StickyShoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402954
+  },
+  {
+    "id": "1d83e6fc-24ed-41b9-a3d4-4d60dd0c038a",
+    "data": [
+      {
+        "text": "Sticky Shoes",
+        "alias": "StickyShoes",
+        "meta": "@StickyShoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527346172
+  },
+  {
+    "id": "60921208-1e91-46a4-bef9-3d921fc11a61",
+    "data": [
+      {
+        "text": "Shoes",
+        "alias": "StickyShoes",
+        "meta": "@StickyShoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402954
+  },
+  {
+    "id": "76d0302c-4846-49fb-98f8-5f0ee47f617a",
+    "data": [
+      {
+        "text": "Sticky",
+        "alias": "StickyShoes",
+        "meta": "@StickyShoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402954
+  },
+  {
+    "id": "49641571-1d6b-48db-acf5-e7c1517e4dec",
+    "data": [
+      {
+        "text": "Play ",
+        "userDefined": false
+      },
+      {
+        "text": "Sticky Shoes",
+        "alias": "StickyShoes",
+        "meta": "@StickyShoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527346172
+  }
+]

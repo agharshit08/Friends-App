@@ -1,0 +1,116 @@
+[
+  {
+    "id": "0f546316-df54-43c3-bb1b-4f5f47817463",
+    "data": [
+      {
+        "text": "My favorite is ",
+        "userDefined": false
+      },
+      {
+        "text": "Joey",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  },
+  {
+    "id": "e0414939-de22-46d1-aef3-3669a6b7b9d3",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "actor",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  },
+  {
+    "id": "92adcb5a-4b02-4bc7-ade7-93203083eb44",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  },
+  {
+    "id": "230352f8-797a-423f-bdc0-503d43529f58",
+    "data": [
+      {
+        "text": "Joey Tribbiani",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  },
+  {
+    "id": "ce0fa53d-eb6a-4cf2-bbb4-5e465d115f05",
+    "data": [
+      {
+        "text": "Joey",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  },
+  {
+    "id": "247848df-7a94-49aa-b02f-22c6dcb0fa2f",
+    "data": [
+      {
+        "text": "Tribbiani",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  },
+  {
+    "id": "1b6ed31c-406c-4a9b-9ed2-5267617ca649",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Joey",
+        "alias": "Joey",
+        "meta": "@Joey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811251
+  }
+]

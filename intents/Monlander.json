@@ -1,0 +1,28 @@
+{
+  "id": "48a01e53-9ac4-40d2-a859-6f5e64366a42",
+  "name": "Monlander",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527691009,
+  "fallbackIntent": false,
+  "events": []
+}

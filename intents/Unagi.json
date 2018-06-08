@@ -1,0 +1,30 @@
+{
+  "id": "8a57b2c4-d3bf-4e6b-9ad1-746c2989f6d1",
+  "name": "Unagi",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527588433,
+  "fallbackIntent": false,
+  "events": []
+}

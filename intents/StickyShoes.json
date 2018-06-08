@@ -1,0 +1,43 @@
+{
+  "id": "f2f8f129-2411-4348-b9b7-ed1f9cbea904",
+  "name": "StickyShoes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a596140d-7073-4074-9db0-8a5b331e1de0",
+          "required": true,
+          "dataType": "@StickyShoes",
+          "name": "StickyShoes",
+          "value": "$StickyShoes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Play sticky shoes song."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527402954,
+  "fallbackIntent": false,
+  "events": []
+}

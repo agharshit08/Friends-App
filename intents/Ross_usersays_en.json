@@ -1,0 +1,103 @@
+[
+  {
+    "id": "43912159-9b7e-44f1-81e9-2683b545747a",
+    "data": [
+      {
+        "text": "My favorite is ",
+        "userDefined": false
+      },
+      {
+        "text": "Ross",
+        "alias": "Ross",
+        "meta": "@Ross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811940
+  },
+  {
+    "id": "c585b869-1353-4cf8-8f92-74b530860b7e",
+    "data": [
+      {
+        "text": "Monica;s Brother",
+        "alias": "Ross",
+        "meta": "@Ross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811940
+  },
+  {
+    "id": "f6b280fd-1cbf-415e-a0f2-d8e49d83c44c",
+    "data": [
+      {
+        "text": "Paleontologist",
+        "alias": "Ross",
+        "meta": "@Ross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811861
+  },
+  {
+    "id": "e2c26d96-8c26-4a97-a88f-6da33aa82976",
+    "data": [
+      {
+        "text": "Ross Geller",
+        "alias": "Ross",
+        "meta": "@Ross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811861
+  },
+  {
+    "id": "5e2ed708-2091-41e4-b152-e0582b0ad6d7",
+    "data": [
+      {
+        "text": "Red",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ross",
+        "alias": "Ross",
+        "meta": "@Ross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811861
+  },
+  {
+    "id": "bfd9bf67-9c13-4d52-9d08-140d30c62a82",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Ross",
+        "alias": "Ross",
+        "meta": "@Ross",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526811861
+  }
+]

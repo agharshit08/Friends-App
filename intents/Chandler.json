@@ -1,0 +1,43 @@
+{
+  "id": "4ee25e3d-22a2-44d4-9044-cc659602363a",
+  "name": "Chandler",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be7c0188-dce2-4517-8a5c-eaf2e2e26be2",
+          "required": true,
+          "dataType": "@Chandler",
+          "name": "Chandler",
+          "value": "$Chandler",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Here is  Chandler Bing."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526811409,
+  "fallbackIntent": false,
+  "events": []
+}

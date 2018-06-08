@@ -1,0 +1,66 @@
+[
+  {
+    "id": "20d59e2a-0ffa-4345-b653-b6938cc05280",
+    "data": [
+      {
+        "text": "Waitress",
+        "alias": "Rachel",
+        "meta": "@Rachel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812097
+  },
+  {
+    "id": "06dee384-1656-4bfb-8cac-7f7dec970c2a",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Waitress",
+        "alias": "Rachel",
+        "meta": "@Rachel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812097
+  },
+  {
+    "id": "94dcd8a7-8d09-4934-8093-77e6b15dcb97",
+    "data": [
+      {
+        "text": "Rachel",
+        "alias": "Rachel",
+        "meta": "@Rachel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812097
+  },
+  {
+    "id": "da2a9d97-3598-4fdb-8410-eff43d24814e",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Rachel Green",
+        "alias": "Rachel",
+        "meta": "@Rachel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812097
+  }
+]

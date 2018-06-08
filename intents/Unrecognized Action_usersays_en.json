@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2d0cda56-7659-4fc6-b3d6-13501282b86d",
+    "data": [
+      {
+        "text": "apple",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690040
+  },
+  {
+    "id": "33d1f80e-26d3-439d-892b-8ae3cc655cf6",
+    "data": [
+      {
+        "text": "banana",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690040
+  }
+]

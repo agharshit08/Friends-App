@@ -1,0 +1,88 @@
+[
+  {
+    "id": "79ba7edd-a4dc-45ff-94aa-a097e52b951f",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Smelly Cat",
+        "alias": "Phoebe",
+        "meta": "@Phoebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812249
+  },
+  {
+    "id": "3a921fdc-f127-4ae0-8596-3234e0cd9559",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Phoebe",
+        "alias": "Phoebe",
+        "meta": "@Phoebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812249
+  },
+  {
+    "id": "1f171be0-f125-492f-bd69-6b4100fe9f08",
+    "data": [
+      {
+        "text": "Phoebe Buffay",
+        "alias": "Phoebe",
+        "meta": "@Phoebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812249
+  },
+  {
+    "id": "fdcdb440-f0fd-4bf3-a118-a7ac6d44cedf",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Pheebs",
+        "alias": "Phoebe",
+        "meta": "@Phoebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812249
+  },
+  {
+    "id": "3d649f6b-8cac-4d88-a898-25a1d964f157",
+    "data": [
+      {
+        "text": "Talk to ",
+        "userDefined": false
+      },
+      {
+        "text": "Guitarist",
+        "alias": "Phoebe",
+        "meta": "@Phoebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526812249
+  }
+]

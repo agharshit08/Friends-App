@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0b5a6f05-6fed-4004-af30-665d46fd1852",
+    "data": [
+      {
+        "text": "Gone Drunk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690810
+  },
+  {
+    "id": "e3884d3c-23c1-4858-90a1-e1e9309cf665",
+    "data": [
+      {
+        "text": "Drunk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690810
+  },
+  {
+    "id": "f2c4a9c0-a3bd-4c99-a38f-6f38cdea83b9",
+    "data": [
+      {
+        "text": "Drunken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527690810
+  }
+]

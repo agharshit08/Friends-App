@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8eceb77f-38fc-4509-8f1e-97c2ed0aec62",
+    "data": [
+      {
+        "text": "Advertisment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527693879
+  },
+  {
+    "id": "1e952fd4-ed82-46f6-80b5-8b8d1d9bdd1c",
+    "data": [
+      {
+        "text": "Ad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527693879
+  }
+]

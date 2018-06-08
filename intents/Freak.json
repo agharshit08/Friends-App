@@ -1,0 +1,28 @@
+{
+  "id": "5c2b6a03-4fb1-4823-afaf-a3269e8b92ce",
+  "name": "Freak",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527690860,
+  "fallbackIntent": false,
+  "events": []
+}

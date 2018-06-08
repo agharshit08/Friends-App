@@ -1,0 +1,48 @@
+[
+  {
+    "id": "2bfa69ef-824e-4eef-9cde-ad45730bb8db",
+    "data": [
+      {
+        "text": "Bang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527691331
+  },
+  {
+    "id": "ddcace0f-8e03-446e-8300-91f3567e347a",
+    "data": [
+      {
+        "text": "Ben",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527691331
+  },
+  {
+    "id": "8628b4c6-7241-4dd6-b7d4-0e761b09ffa2",
+    "data": [
+      {
+        "text": "Monica",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Bang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527691331
+  }
+]

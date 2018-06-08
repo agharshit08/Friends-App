@@ -1,0 +1,30 @@
+{
+  "id": "3d94dbdf-d92f-4d92-bd14-d1c83d5a41b7",
+  "name": "Fight with Mon",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527589280,
+  "fallbackIntent": false,
+  "events": []
+}

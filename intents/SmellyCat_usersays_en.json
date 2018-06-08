@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a33862c6-5271-4a57-acca-28c98ff5c740",
+    "data": [
+      {
+        "text": "Smelly Cat",
+        "alias": "SmellyCat",
+        "meta": "@SmellyCat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527346075
+  },
+  {
+    "id": "478558e8-60c8-48dc-9aa3-59460087f7b0",
+    "data": [
+      {
+        "text": "Play ",
+        "userDefined": false
+      },
+      {
+        "text": "Smelly Cat",
+        "alias": "SmellyCat",
+        "meta": "@SmellyCat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527346075
+  }
+]

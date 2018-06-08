@@ -1,0 +1,28 @@
+{
+  "id": "04efc4bb-28a9-47ab-96eb-f78b2da1a9ee",
+  "name": "Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527693844,
+  "fallbackIntent": false,
+  "events": []
+}

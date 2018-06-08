@@ -1,0 +1,28 @@
+{
+  "id": "1d463550-b9c9-4b67-a7a1-b3f34bac6522",
+  "name": "Drunk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527690810,
+  "fallbackIntent": false,
+  "events": []
+}

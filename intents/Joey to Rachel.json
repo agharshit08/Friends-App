@@ -1,0 +1,30 @@
+{
+  "id": "bebaca9e-5fa7-4d2e-b9d7-5e56a9cf1f37",
+  "name": "Joey to Rachel",
+  "auto": true,
+  "contexts": [
+    "actions_capability_media_response_audio"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527693732,
+  "fallbackIntent": false,
+  "events": []
+}

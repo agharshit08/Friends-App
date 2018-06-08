@@ -1,0 +1,28 @@
+{
+  "id": "db4d4350-34dc-4f57-89c2-bafbf5500e5d",
+  "name": "Ross to Rachel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527592718,
+  "fallbackIntent": false,
+  "events": []
+}
